@@ -3,7 +3,7 @@ This is the python code to visualise the PRD Dataset available in [`Zenodo`](htt
 
 ## Environment Setup
 
-1. Clone this repository and navigate to LLaVA folder
+1. Clone this repository and navigate to Git folder
 ```bash
 git clone https://github.com/CVRS-Hamlyn/PRD_Dataset_Visualisation.git
 cd PRD_Dataset_Visualisation
